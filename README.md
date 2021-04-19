@@ -49,16 +49,16 @@
 #### 包详情和证书文件读取
 #### 下载中心（支持自动下载并分类，支持plist地址自动解析IPA下载）
 
-![ sign.png](https://github.com/even-cheng/ECSignerForiOS/blob/master/sign1.png)
-![ sign.png](https://github.com/even-cheng/ECSignerForiOS/blob/master/sign2.png)
-![ sign.png](https://github.com/even-cheng/ECSignerForiOS/blob/master/sign3.png)
-![ sign.png](https://github.com/even-cheng/ECSignerForiOS/blob/master/sign4.png)
-![ sign.png](https://github.com/even-cheng/ECSignerForiOS/blob/master/sign5.png)
-![ sign.png](https://github.com/even-cheng/ECSignerForiOS/blob/master/sign6.png)
+![ sign.png](sign1.png)
+![ sign.png](sign2.png)
+![ sign.png](sign3.png)
+![ sign.png](sign4.png)
+![ sign.png](sign5.png)
+![ sign.png](sign6.png)
 
 ### ECSigner使用说明：
 ##### 1、本工具仅供内部合法使用，请勿使用本工具签名非法APP，否则开发者有权终止您的使用权限，所产生一切后果均与开发者无关。
-##### 2、本工具Mac端已开源免费使用，请前往GitHub下载：https://github.com/even-cheng/ECSigner
+##### 2、本工具Mac端已开源免费使用，请前往GitHub下载：https://github.com/apple-sign/ECSigner
 ##### 3、本工具不偷书！不偷书！不偷书！官方下载渠道为官方QQ群，开发者QQ号，GitHub主页，其它地方下载或者分享的请勿使用！！！
 ##### 4、关于时间锁，工具默认使用第三方云服务器Leancloud, 因为它基础功能免费可以满足您的基本需求（账号请自行申请和客户端内配置），加锁不会上传您的证书，您的数据都在您自己手上，登录您的leanclud后台就能看的，也可以自行控制，所有数据与开发者无关。
 ##### 5、如果只使用基础签名功能，而且您还不放心，那您可以关闭APP的网络权限（关闭后部分功能受限）。
